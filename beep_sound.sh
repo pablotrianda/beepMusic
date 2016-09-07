@@ -1,9 +1,9 @@
 #!/bin/bash
-echo "Creado por @pablotrianda"
-echo "Efectos recolecados por varios lugares"
 function _menu()
 {
 		clear
+		echo "Creado por @pablotrianda"
+		echo "Efectos recolecados por varios lugares"
 		echo " ____                    __  __           _      "
 		echo "|  _ \                  |  \/  |         (_)     "
 		echo "| |_) | ___  ___ _ __   | \  / |_   _ ___ _  ___ "
